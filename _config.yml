@@ -55,8 +55,6 @@ google_site_verification: # fill in to your verification string
 google_analytics:
   id: G-HT48L314B7 # fill in your Google Analytics ID
 
-baidu_tmid: 973d81dfaaa723b94528bd9dcacd9f51  
-
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
