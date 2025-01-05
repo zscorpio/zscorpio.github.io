@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn: https://img.zscorpio.one
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://img.zscorpio.one/logo.jpg
+avatar: https://sxy518.oss-cn-shanghai.aliyuncs.com/assets/blog/logo.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
